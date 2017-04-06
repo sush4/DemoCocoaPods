@@ -7,6 +7,7 @@
 //
 
 @import UIKit;
+#import "HelloWorld.h"
 
 @interface SAppDelegate : UIResponder <UIApplicationDelegate>
 
