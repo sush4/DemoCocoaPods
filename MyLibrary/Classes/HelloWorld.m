@@ -11,7 +11,7 @@
 @implementation HelloWorld
 
 + (void) sayHello {
-    NSLog(@"Hello world");
+    NSLog(@"Hello test branch");
 }
 
 @end

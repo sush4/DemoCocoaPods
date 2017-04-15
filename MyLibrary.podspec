@@ -9,7 +9,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/sush4/DemoCocoaPods'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sush4' => 'sush.nic@gmail.com' }
-  s.source           = { :git => 'https://github.com/sush4/DemoCocoaPods.git',:branch => "DemoCocoaPods_0.2.0"  }
+  s.source           = { :git => 'https://github.com/sush4/DemoCocoaPods.git',:branch => "test"  }
   s.ios.deployment_target = '8.0'
   s.source_files = 'MyLibrary/Classes/**/*'
 
